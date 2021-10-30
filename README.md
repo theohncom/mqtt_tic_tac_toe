@@ -15,7 +15,7 @@ __การทำงานของโปรแกรมประกอบด้
 
 __เครื่องมือในการอบรม__
 1. google colab (https://colab.research.google.com/)
-2. Jupyter notebook ไฟล์ (mqtt_tic_tac_toe_player_starter.ipynb)
+2. Jupyter notebook ไฟล์ [mqtt_tic_tac_toe_player_starter.ipynb](https://github.com/theohncom/mqtt_tic_tac_toe/blob/main/mqtt_tic_tac_toe_player_starter.ipynb)
 
 __ลำดับในการอบรม__
 1. ภาคทฤษฎี (13:00-14:15): บรรยายให้ความรู้เบื้องต้นเกี่ยวกับภาษา python และ mqtt protocol
